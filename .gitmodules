@@ -1,0 +1,3 @@
+[submodule "repo-2"]
+	path = repo-2
+	url = https://github.com/Strider-8846/repo-2.git
